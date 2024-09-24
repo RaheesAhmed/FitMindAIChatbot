@@ -13,8 +13,8 @@ This is the backend for the FitMind AI chatbot application. It provides APIs for
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/fitmind-ai-backend.git
-   cd fitmind-ai-backend
+   git clone https://github.com/RaheesAhmed/FitMindAIChatbot
+   cd backend
    ```
 
 2. Install dependencies:
